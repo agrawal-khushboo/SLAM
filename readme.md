@@ -13,4 +13,4 @@ gifdataset20.gif:  shows the gif of the results for the dataset 20
 
 gifdataset21.gif: shows the gif of the results for the dataset 21
 
-gifdataset23.gif: shows the gif of the results for the dataset 23
+gifdataset23.gif: shows the gif of the results for the dataset 23 (test set)
