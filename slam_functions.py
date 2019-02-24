@@ -219,6 +219,17 @@ class particlefilter:
             new_particles[k,:] = self.particles[j,:]
         self.particles = new_particles
         self.particle_weight = np.ones((num_particles,1))/num_particles
+                        
+                        
+import imageio
+import osdef 
+def create_gif:
+    images = []
+    kargs = { 'duration': 5 }
+    filenames = os.listdir("23/")
+    for filename in filenames:
+        images.append(imageio.imread("23/"+filename))
+    imageio.mimsave('gif23dataset.gif', images,'GIF',**kargs)
 
 
 
