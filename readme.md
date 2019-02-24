@@ -10,5 +10,7 @@ slam_funnctions.py: Gives the code of the functions necessary to implement the p
 slam.py: it is main code which calls functions from slam_functions and runs the code on the data
 
 gifdataset20.gif:  shows the gif of the results for the dataset 20 
+
 gifdataset21.gif: shows the gif of the results for the dataset 21
+
 gifdataset23.gif: shows the gif of the results for the dataset 23
