@@ -14,3 +14,8 @@ gifdataset20.gif:  shows the gif of the results for the dataset 20
 gifdataset21.gif: shows the gif of the results for the dataset 21
 
 gifdataset23.gif: shows the gif of the results for the dataset 23 (test set)
+
+texturemap20.gif: shows the gif of the result for the dataset20
+
+texturemap21.gif: shows the gif of the result for the dataset21
+
